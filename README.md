@@ -20,7 +20,18 @@ Here are some ideas to get you started:
 
 
 ## Github Stats
+
+                           
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atif-tariq&langs_count=8&layout=compact&theme=apprentice)](https://github.com/atif-tariq/github-readme-stats)
 
 [![Atif's GitHub stats](https://github-readme-stats.vercel.app/api?username=atif-tariq&theme=apprentice&show_icons=true)](https://github.com/atif-tariq/github-readme-stats)
 
+## Social Media 
+[![Instagram][1.2]][1]
+
+<!-- icons  -->
+[1.2]:https://imgur.com/7T7Q9w9
+
+<!-- links to social media accounts -->
+
+[1]:https://www.instagram.com/atif__tariq/
